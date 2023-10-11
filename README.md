@@ -9,7 +9,7 @@
         </p>
 
   <p> 🤣 Jaja que raro seguir las mismas lineas de arriba como todos, no¿?</p>
-  <p> 🎶Yo tratare de hacer algo distinto, mi logica esta un poco perdida pero mis ganas de aprender estab <br> siempre conmigo.</p>
+  <p> 🎶Yo tratare de hacer algo distinto, mi logica esta un poco perdida pero mis ganas de aprender estan <br> siempre conmigo.</p>
 <p>Me apasiona la musica y me imagino que puedo hacer con ayuda de la programación</p>
     </div>
 </body>
