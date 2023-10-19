@@ -14,9 +14,9 @@
 - 📫 puedes contactarme por mi correo: *jazzielrodriguezlopez@gmail.com**
 
 
-<h3 align="center">Mi canal de youtube.:</h3>
+<h3 align="center">Mi canal de youtube:</h3>
 <p align="center">
 <div align="center">
-<a href="https://www.youtube.com/c/https://youtube.com/@jazzielrodriguez?si=kougfpava9mt-ps2" target="blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@jazzielrodriguez?si=kougfpava9mt-ps2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@JazzielRodriguez" target="blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@jazzielrodriguez?si=kougfpava9mt-ps2" height="30" width="40" /></a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzolopez&show_icons=true&locale=en&layout=compact" alt="jazzolopez" /></p>
