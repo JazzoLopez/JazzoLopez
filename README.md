@@ -1,3 +1,16 @@
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋,I'm Jazziel Rodriguez</h1></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 # 💫 About Me:
 I am currently studying a technical degree in software development. Regular student<br><br>🎶I will try to do something different, my logic is a little lost but my desire to learn is always with me, I am passionate about music and I imagine What can I do with the help of programming? Something different would be nice*<br><br>👯 I would love to collaborate with different people to strengthen my knowledge. As much as possible*<br><br> 👨🏻‍💻 Although I am not very sociable, I am breaking many paradigms for my own good. I know I will*<br><br>💬 I have knowledge about databases, languages like javascript, java and php*<br><br>📫 you can contact me by email: jazzielrodriguezlopez@gmail.com
 
