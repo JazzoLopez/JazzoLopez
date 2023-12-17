@@ -13,6 +13,20 @@
        alt="snake" /></a>
 </div>
 
+ ```javascript
+  console.log("Hola mundo");
+	const misDatos = {
+	name : "Jazziel",
+	lastname : "Rodriguez Lopez",
+	age : 19,
+	hobbies : {
+		listenToMusic: true, //Mi herramienta ante el estres
+    		playVideoGames: true, 
+    		practicePenSpinning: true
+	}
+}
+	
+ ```
 
 # 💫 Acerca de mí:
 Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estudiante regular<br><br>🎶Intentaré hacer algo diferente, mi lógica está un poco perdida pero mis ganas de aprender siempre están conmigo, me apasiona la música y me imagino que puedo hacer con la ayuda de la programación. ? Algo diferente estaría bien*<br><br>👯 Me encantaría colaborar con diferentes personas para fortalecer mis conocimientos. En la medida de lo posible*<br><br> 👨🏻‍💻 Aunque no soy muy sociable, estoy rompiendo muchos paradigmas por mi propio bien. Sé que lo haré*<br><br>💬 Tengo conocimientos sobre bases de datos, lenguajes como javascript, java y php*<br><br>📫 puedes contactarme al correo: jazzielrodriguezlopez@gmail.com
@@ -27,9 +41,7 @@ Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estu
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JazzoLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JazzoLopez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+ 
