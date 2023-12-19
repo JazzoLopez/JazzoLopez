@@ -43,9 +43,9 @@ Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estu
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=8&layout=compact&theme=radical)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez&theme=radical)
 
 </div>
