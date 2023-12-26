@@ -20,7 +20,7 @@
 	lastname : "Rodriguez Lopez",
 	age : 19,
 	hobbies : {
-		listenToMusic: true, //Mi herramienta ante el estres
+	             listenToMusic: true, //Mi herramienta ante el estres
     		playVideoGames: true, 
     		practicePenSpinning: true
 	}
