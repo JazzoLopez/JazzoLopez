@@ -18,7 +18,7 @@
 	const misDatos = {
 	name : "Jazziel",
 	lastname : "Rodriguez Lopez",
-	age : 19,
+	age : 20,
 	hobbies : {
 	             listenToMusic: true, //Mi herramienta ante el estres
     		playVideoGames: true, 
