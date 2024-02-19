@@ -37,7 +37,7 @@ Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estu
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cpp,flask,github,git,js,mongodb,mysql,pug,py,tailwind,vscode,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=angular,flask,github,git,js,mongodb,mysql,py,tailwind,vscode,nodejs,java" />
   </a>
 </p>
 
