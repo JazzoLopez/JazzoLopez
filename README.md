@@ -2,8 +2,9 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola buenas yo soy Jazziel
-    <a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=htmx" />
+  </a>
 	</a></h1></summary>
   </ul>
 </div>
@@ -34,7 +35,7 @@ Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estu
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,flask,github,git,js,mongodb,mysql,py,tailwind,vscode,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=angular,github,git,js,mongodb,mysql,tailwind,vscode,nodejs,java" />
   </a>
 </p>
 
