@@ -18,7 +18,7 @@
 	lastname : "Rodriguez Lopez",
 	age : 20,
 	hobbies : {
-	             listenToMusic: true, //Mi herramienta ante el estres
+	             listenToMusic: true, 
     		playVideoGames: true, 
     		practicePenSpinning: true
 	}
@@ -35,7 +35,7 @@ Actualmente estoy estudiando la carrera técnica en desarrollo de software. Estu
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,github,git,js,mongodb,mysql,tailwind,vscode,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=angular,github,js,java,nodejs,mongodb,mysql,tailwind" />
   </a>
 </p>
 
