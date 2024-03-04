@@ -26,7 +26,7 @@
 	
  ```
 
-💫 Acerca de mí:
+💫 Acerca de mí:<br>
 Actualmente estoy estudiando la carrera técnica en desarrollo de software. Soy un estudiante regular.<br><br>
 
 Me apasiona y me intriga saber cómo será la tecnología en unos años. Estoy dispuesto a aprender diferentes herramientas y dar soluciones a problemas de manera eficiente.
