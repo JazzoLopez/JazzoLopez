@@ -48,7 +48,7 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=6&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=16&layout=compact&theme=radical)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez&theme=radical)
