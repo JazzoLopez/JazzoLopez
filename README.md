@@ -1,9 +1,8 @@
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola buenas yo soy Jazziel
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=htmx" />
+  <ul align="center" style="display:flex;">
+    <summary><h1 style="display: flex ">Hola buenas yo soy Jazziel
+
   </a>
 	</a></h1></summary>
   </ul>
@@ -52,7 +51,7 @@ He decidido especializarme en desarrollo fullstack con JavaScript. Quiero domina
 
 - **Bases de datos**: Experiencia con SQL y NoSQL.
 - **Backend**: Desarrollo con Node.js.
-- **Frontend**: Conocimientos basicos (demasiados jeje) en Angular y disposición a aprender React.
+- **Frontend**: Conocimientos basicos (demasiados jeje) en React y Angular.
 - **Aprendizaje continuo**: Adaptabilidad a nuevas tecnologías.
 
 Puedes revisar mis repositorios para ver en qué he trabajado.
