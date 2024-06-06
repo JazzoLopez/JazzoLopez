@@ -68,7 +68,8 @@ Puedes revisar mis repositorios para ver en qué he trabajado.
 </p>
 
 <div align="center">
-
+<img src="https://myreadme.vercel.app/api/embed/JazzoLopez?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=8&layout=compact&theme=radical)
 
 
