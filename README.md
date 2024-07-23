@@ -29,21 +29,17 @@
 
 Actualmente estoy estudiando la carrera técnica en desarrollo de software Multiplataforma.
 
-Me apasiona y me intriga saber cómo será la tecnología en unos años. Estoy dispuesto a aprender diferentes herramientas y dar soluciones a problemas de manera eficiente.
+Estoy dispuesto a aprender diferentes herramientas y dar soluciones a problemas de manera eficiente.
 
-Mis fortalezas son la gestión de bases de datos y el desarrollo backend. Además, estoy aprendiendo React y Nest.js siempre es bueno crecer y seguir aprendiendo.
+Mis fortalezas son la gestión de bases de datos y el desarrollo backend. Además, estoy aprendiendo un poco de React, Angular y Nest.js siempre es bueno crecer y seguir aprendiendo.
 
 Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o en qué estoy trabajando.
 
 ---
 
-## Nueva dirección: Desarrollo Fullstack con JavaScript
+### Mis objetivos:
 
-He decidido especializarme en desarrollo fullstack con JavaScript. Quiero dominar tanto el frontend como el backend usando un solo lenguaje, lo que me permitirá crear aplicaciones más coherentes y eficientes.
-
-### Objetivos:
-
-1. **Mejorar en JavaScript**: Dominar JavaScript para backend (Node.js) y frontend.
+1. **Mejorar en JavaScript**: Dominar JavaScript para backend (Node.js) y frontend (alguillo).
 2. **Aprender frameworks**: Ampliar mis conocimientos en Angular, React, y Express.js.
 3. **Integración y despliegue**: Aprender sobre CI/CD y despliegue en la nube.
 
@@ -54,8 +50,6 @@ He decidido especializarme en desarrollo fullstack con JavaScript. Quiero domina
 - **Frontend**: Conocimientos basicos (demasiados jeje) en React y Angular.
 - **Aprendizaje continuo**: Adaptabilidad a nuevas tecnologías.
 
-Puedes revisar mis repositorios para ver en qué he trabajado.
-
 
 ## 🌐 Mis redes sociales:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JazzieloRL) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JazzielRodriguez)
@@ -63,7 +57,7 @@ Puedes revisar mis repositorios para ver en qué he trabajado.
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,php,js,ts,github,git,mongodb,mysql,tailwind,css,html,react,nest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,figma,mongo,mysql,react,angular,nest" />
   </a>
 </p>
 
