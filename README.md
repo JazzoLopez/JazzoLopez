@@ -46,7 +46,7 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 ### Habilidades:
 
 - **Bases de datos**: Experiencia con SQL y NoSQL.
-- **Backend**: Desarrollo con Node.js.
+- **Backend**: Desarrollo con Node.js, frameworks como Express, Nesty Slim (PHP).
 - **Frontend**: Conocimientos basicos (demasiados jeje) en React y Angular.
 - **Aprendizaje continuo**: Adaptabilidad a nuevas tecnologías.
 
