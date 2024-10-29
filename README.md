@@ -52,6 +52,6 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez&theme=radical)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/659605d9ae22c125231c5396?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/659605d9ae22c125231c5396?variant=dark&roadmaps=backend%2Cdevops%2Cangular)](https://roadmap.sh)
 
 </div>
