@@ -1,29 +1,13 @@
 
 <div id="user-content-toc">
   <ul align="center" style="display:flex;">
-    <summary><h1 style="display: flex ">Hola buenas yo soy Jazziel
+    <summary><h1 style="display: flex ">Jazziel Rodríguez López 
 
   </a>
 	</a></h1></summary>
   </ul>
 </div>
 
-
-
- ```javascript
-  console.log("Hola mundo");
-	const misDatos = {
-	name : "Jazziel",
-	lastname : "Rodriguez Lopez",
-	age : 20,
-	hobbies : {
-	             listenToMusic: true, 
-    		playVideoGames: true, 
-    		practicePenSpinning: true
-	}
-}
-	
- ```
 
 💫 **Acerca de mí:**
 
@@ -67,5 +51,7 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez&theme=radical)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/659605d9ae22c125231c5396?variant=dark)](https://roadmap.sh)
 
 </div>
