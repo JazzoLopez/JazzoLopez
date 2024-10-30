@@ -41,7 +41,7 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,figma,mongo,mysql,react,angular,nest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,figma,mongo,mysql,react,angular,nest,rust" />
   </a>
 </p>
 
