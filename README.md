@@ -41,13 +41,13 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 # 💻 Lo que estoy aprendiendo actualmente:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,figma,mongo,mysql,react,nest,rust" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,js,nodejs,express,java,php,mongo,mysql,react,nest,spring" />
   </a>
 </p>
 
 <div align="center">
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=9&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzoLopez&langs_count=6&layout=compact&theme=radical)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JazzoLopez&theme=radical)
