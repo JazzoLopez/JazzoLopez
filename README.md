@@ -11,7 +11,7 @@
 
 💫 **Acerca de mí:**
 
-Actualmente estoy estudiando la carrera técnica en desarrollo de software Multiplataforma.
+Actualmente estoy estudiando la carrera de ingenieria en desarrollo y gestión de software.
 
 Estoy dispuesto a aprender diferentes herramientas y dar soluciones a problemas de manera eficiente.
 
