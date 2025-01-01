@@ -24,8 +24,9 @@ Puedes revisar mis diferentes repositorios para conocer en qué he trabajado o e
 ### Mis objetivos:
 
 1. **Mejorar en JavaScript**: Dominar JavaScript para backend (Node.js) y frontend (alguillo).
-2. **Aprender frameworks**: Ampliar mis conocimientos en Angular, React, y Express.js.
-3. **Integración y despliegue**: Aprender sobre CI/CD y despliegue en la nube.
+2. **Aprender Java**: Uno de mis principales objetivos es dominar el lenguaje Java para proposito general.
+3. **Aprender frameworks**: Ampliar mis conocimientos en Angular, React, y Express.js.
+4. **Integración y despliegue**: Aprender sobre CI/CD y despliegue en la nube.
 
 ### Habilidades:
 
