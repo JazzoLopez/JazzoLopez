@@ -53,9 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React Native (usa el mismo logo)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
 </div>
 
 
@@ -80,12 +78,3 @@
 </div>
 
 ---
-
-<!-- No borrar esta sección, es importante para después -->
-<h3 align="center">🎧 Spotify (últimas canciones)</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31wljtqrtk2gzavqcxchkzfx55mi" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wljtqrtk2gzavqcxchkzfx55mi&count=3" alt="Spotify recently played" />
-  </a>
-</div>
