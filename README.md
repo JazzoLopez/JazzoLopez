@@ -21,6 +21,10 @@
 <p align="center"><strong>Soy un hombre que resuelve.</strong></p>
 
 ---
+<div align="center">
+  <img src="https://www.codewars.com/users/JazzoLopez/badges/large" /> 
+</div>
+
 
 <!-- No borrar esta sección, es importante para después -->
 <h3 align="center">📊 GitHub Stats</h3>
@@ -76,5 +80,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
 
 ---
