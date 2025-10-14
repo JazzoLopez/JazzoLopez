@@ -30,8 +30,14 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jazzolopez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzolopez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jazzolopez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=3600" 
+    height="180" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzolopez&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=3600" 
+    height="180" 
+  />
 </div>
 
 ---
