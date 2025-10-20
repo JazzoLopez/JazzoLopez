@@ -1,4 +1,3 @@
-<!-- No borrar esta sección, es importante para después -->
 <h2 align="center">Hola, soy Jazziel 👋</h2>
 
 <p align="center">
