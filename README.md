@@ -1,4 +1,4 @@
-<h2 align="center">Hola, soy Jazziel 👋</h2>
+<h2 align="center">Hola, soy Jazziel 👋 </h2>
 
 <p align="center">
   <strong>Ingeniero en Desarrollo y Gestión de Software</strong> en formación, enfocado en el diseño de 
